@@ -55,40 +55,40 @@ Product Line Performance
 
 * Top-Performing Product Lines:
 
-Fashion Accessories excelled in the $80-$100 price range, suggesting effective positioning.
-Electronic Accessories recorded the highest quantity sold at 971 units, indicating robust consumer interest.
-Sports and Travel products peaked in the mid-price range ($60-$80), suggesting balanced demand.
+Main insight 1: The highest-performing product in the 80-100 price range is Fashion Accessories, contributing significantly to overall sales.
+Main insight 2: In the 20-40 price range, Electronic Accessories leads in sales, indicating strong demand for affordable technology.
+Main insight 3: Sports and Travel products excel in the 60-80 price range, showcasing seasonal purchasing trends.
+Main insight 4: The data indicates a competitive market where price sensitivity varies significantly among customer demographics.
 
 ![top performing products](https://github.com/user-attachments/assets/ecaca0da-edbe-4abd-9c7f-5f6b37221225)
 
 
-* Gross Income Analysis: The analysis revealed contrasting sales volume and gross income, particularly for fashion accessories, which showed lower gross income despite high unit sales.
+Gross Income Distribution by Product Line:
 
+Main insight 1: Gross income data shows Electronic Accessories achieving the highest revenue despite lower quantity sold.
+Main insight 2: Fashion Accessories lag in gross income relative to sales volume, prompting a review of pricing strategies.
+Main insight 3: Home and Lifestyle products maintain steady sales, suggesting potential for growth in targeted marketing.
+Main insight 4: Income distribution reflects broader market trends that can be leveraged for strategic planning.
 
 ![gross income vs avg units](https://github.com/user-attachments/assets/89b8f815-a47a-421d-9674-0b42e04acfc8)
 
 
+Customer Demographics and Purchase Behavior:
 
-Customer Segmentation
+Main insight 1: Female customers dominate the higher price range, while male customers lead in the lower price range.
+Main insight 2: Member customers tend to spend more on average than normal customers, emphasizing the value of loyalty programs.
+Main insight 3: Sales data indicates notable trends based on branch locations, with Branch C having a diverse customer base.
 
-* Customer Type Analysis: Members exhibited an average rating of 6.9, while normal customers averaged 7.
-
-![average rating ](https://github.com/user-attachments/assets/d3a1db20-d259-40be-abb8-bb1095ba862e)
-
-* Gender Insights: Female members dominate higher price range purchases, while male normal customers lead in lower-priced segments.
-
-![gender insights](https://github.com/user-attachments/assets/832ea446-9063-4655-bf06-d363fff6bb04)
+![average rating ](https://github.com/user-attachments/assets/d3a1db20-d259-40be-abb8-bb1095ba862e) ![gender insights](https://github.com/user-attachments/assets/832ea446-9063-4655-bf06-d363fff6bb04)
 
 
 Branch Performance
 
-* Average Gross Income by Branch:
-Branch C averaged 16, Branch B at 15, and Branch A at 14, showcasing Branch C's superior performance.
+Main insight 1: Branch C averaged 16, Branch B at 15, and Branch A at 14, showcasing Branch C's superior performance.
+Main insight 2: Branch C led with an average rating of 7.07, while Branch A and B followed closely at 7.02 and 6.8, respectively.
 
 ![branch gross income](https://github.com/user-attachments/assets/b9c169b5-c509-41c1-bba1-6e88a1e0fd0a)
 
-* Ratings by Branch:
-Branch C led with an average rating of 7.07, while Branch A and B followed closely at 7.02 and 6.8, respectively.
 
 # Recommendations
 Based on the insights and findings above, we would recommend the marketing and sales teams to consider the following:
