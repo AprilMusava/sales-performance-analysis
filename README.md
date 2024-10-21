@@ -45,10 +45,10 @@ The main database structure consists of one table with the following data: sales
 Sales Overview
 
 Total Sales Amount: The total sales amount to $322.97k, highlighting overall business health.
-
 Total Quantity Sold: The total quantity sold was 5510 units, indicating high demand in specific categories.
-
 Average Unit Price: The average unit price across all product lines is $55.67.
+
+![general totals](https://github.com/user-attachments/assets/e046cc36-bcf9-48a9-b55e-eeae80a55950)
 
 
 Product Line Performance
@@ -59,17 +59,34 @@ Fashion Accessories excelled in the $80-$100 price range, suggesting effective p
 Electronic Accessories recorded the highest quantity sold at 971 units, indicating robust consumer interest.
 Sports and Travel products peaked in the mid-price range ($60-$80), suggesting balanced demand.
 
+![top performing products](https://github.com/user-attachments/assets/ecaca0da-edbe-4abd-9c7f-5f6b37221225)
+
+
 * Gross Income Analysis: The analysis revealed contrasting sales volume and gross income, particularly for fashion accessories, which showed lower gross income despite high unit sales.
+
+![grosss income analysis](https://github.com/user-attachments/assets/37ccdbf7-11d7-40e9-9525-ade44886c14f)
+![average sales product line](https://github.com/user-attachments/assets/7247cc21-f8b4-4273-b85f-1dce4f572e4f)
+
+
 
 Customer Segmentation
 
 * Customer Type Analysis: Members exhibited an average rating of 6.9, while normal customers averaged 7.
+
+![average rating ](https://github.com/user-attachments/assets/d3a1db20-d259-40be-abb8-bb1095ba862e)
+
 * Gender Insights: Female members dominate higher price range purchases, while male normal customers lead in lower-priced segments.
+
+![gender insights](https://github.com/user-attachments/assets/832ea446-9063-4655-bf06-d363fff6bb04)
+
 
 Branch Performance
 
 * Average Gross Income by Branch:
 Branch C averaged 16, Branch B at 15, and Branch A at 14, showcasing Branch C's superior performance.
+
+![branch gross income](https://github.com/user-attachments/assets/b9c169b5-c509-41c1-bba1-6e88a1e0fd0a)
+
 * Ratings by Branch:
 Branch C led with an average rating of 7.07, while Branch A and B followed closely at 7.02 and 6.8, respectively.
 
