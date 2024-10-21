@@ -10,7 +10,7 @@ Insights and Recommendations are Provided on the Following Key Areas:
 * Product Line Performance
 * Customer Segmentation
 * Branch Performance
-The SQL queries used for data inspection and cleaning are here: [[SQL Queries Link]].
+The SQL queries used for data inspection and cleaning are here: [[SQL Queries Link](./supermarket_sales_sqlscript.sql)].
 
 The interactive Power BI dashboard used to report and explore sales trends can be found here: [Dashboard Link].
 
