@@ -64,7 +64,8 @@ Sports and Travel products peaked in the mid-price range ($60-$80), suggesting b
 
 * Gross Income Analysis: The analysis revealed contrasting sales volume and gross income, particularly for fashion accessories, which showed lower gross income despite high unit sales.
 
-![gross income vs avg units](https://github.com/user-attachments/assets/ad1ad634-9634-4675-aa10-72dcf7ca2eba)
+
+![gross income vs avg units](https://github.com/user-attachments/assets/89b8f815-a47a-421d-9674-0b42e04acfc8)
 
 
 
