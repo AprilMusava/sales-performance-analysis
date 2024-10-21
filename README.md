@@ -20,7 +20,7 @@ Data Structure & Initial Checks
 The main database structure consists of one table with the following data: sales data, product data, customer data, and branch data, with a total row count of X records. A brief description of the data is as follows:
 
 * sales data: Contains sales transactions, including total sales, quantity sold, and customer ratings.
-* product data: Details product lines, unit prices, and descriptions.
+* product data: Details of product lines, unit prices, and descriptions.
 * customer data: Provides demographic details, including customer type and gender.
 * branch data: Lists information about different branches, including location and performance metrics.
 
@@ -44,18 +44,19 @@ The main database structure consists of one table with the following data: sales
 
 Sales Overview
 
-Total Sales Amount: The total sales amount reached $322.97k, highlighting overall business health.
+Total Sales Amount: The total sales amount to $322.97k, highlighting overall business health.
+
 Total Quantity Sold: The total quantity sold was 5510 units, indicating high demand in specific categories.
-Average Unit Price: The average unit price across all product lines stood at $55.67.
+
+Average Unit Price: The average unit price across all product lines is $55.67.
 
 
 Product Line Performance
 
 * Top-Performing Product Lines:
+
 Fashion Accessories excelled in the $80-$100 price range, suggesting effective positioning.
-
 Electronic Accessories recorded the highest quantity sold at 971 units, indicating robust consumer interest.
-
 Sports and Travel products peaked in the mid-price range ($60-$80), suggesting balanced demand.
 
 * Gross Income Analysis: The analysis revealed contrasting sales volume and gross income, particularly for fashion accessories, which showed lower gross income despite high unit sales.
@@ -70,7 +71,7 @@ Branch Performance
 * Average Gross Income by Branch:
 Branch C averaged 16, Branch B at 15, and Branch A at 14, showcasing Branch C's superior performance.
 * Ratings by Branch:
-Branch C led with an average rating of 7.07, while Branch A and Branch B followed closely at 7.02 and 6.8, respectively.
+Branch C led with an average rating of 7.07, while Branch A and B followed closely at 7.02 and 6.8, respectively.
 
 # Recommendations
 Based on the insights and findings above, we would recommend the marketing and sales teams to consider the following:
