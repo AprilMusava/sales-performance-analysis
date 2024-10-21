@@ -28,7 +28,7 @@ The main database structure consists of one table with the following data: sales
 
 # Overview of Findings
 
-* The analysis reveals significant trends in sales performance, product demand, and customer behavior. Key takeaways for stakeholders include:
+The analysis reveals significant trends in sales performance, product demand, and customer behavior. Key takeaways for stakeholders include:
 
 * Sales Concentration: High sales volumes are concentrated within certain product lines, suggesting targeted marketing opportunities.
 
