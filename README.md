@@ -10,7 +10,7 @@ Insights and Recommendations are Provided on the Following Key Areas:
 * Product Line Performance
 * Customer Segmentation
 * Branch Performance
-The SQL queries used for data inspection and cleaning are here: [SQL Queries Link].
+The SQL queries used for data inspection and cleaning are here: [[SQL Queries Link]].
 
 The interactive Power BI dashboard used to report and explore sales trends can be found here: [Dashboard Link].
 
@@ -53,8 +53,11 @@ Product Line Performance
 
 * Top-Performing Product Lines:
 Fashion Accessories excelled in the $80-$100 price range, suggesting effective positioning.
+
 Electronic Accessories recorded the highest quantity sold at 971 units, indicating robust consumer interest.
+
 Sports and Travel products peaked in the mid-price range ($60-$80), suggesting balanced demand.
+
 * Gross Income Analysis: The analysis revealed contrasting sales volume and gross income, particularly for fashion accessories, which showed lower gross income despite high unit sales.
 
 Customer Segmentation
