@@ -12,7 +12,7 @@ Insights and Recommendations are Provided on the Following Key Areas:
 * Branch Performance
 The SQL queries used for data inspection and cleaning are here: [[SQL Queries Link](./supermarket_sales_sqlscript.sql)].
 
-The Power BI dashboard used to report and explore sales trends can be found here: [Dashboard Link].
+The Power BI dashboard used to report and explore sales trends can be found here: [[Dashboard Link](./Supermarket%20Sales%20Dashboard.pbix)].
 
 
 Data Structure & Initial Checks
