@@ -1,5 +1,5 @@
 # sales-performance-analysis
-This repository contains an in-depth examination of sales data to derive meaningful insights that can help drive strategic decision-making. The analysis includes various visualizations and findings related to product performance, customer demographics, and branch efficiency.
+This repository contains an in-depth examination of a supermarket's sales data in 3 different locations and includes various visualizations and findings related to product performance, customer demographics, and branch efficiency.
 The objective was to extract actionable insights from the sales data to support strategic initiatives and enhance overall business performance.
 
 
